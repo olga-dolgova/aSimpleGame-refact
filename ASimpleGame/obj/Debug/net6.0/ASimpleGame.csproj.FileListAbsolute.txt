@@ -1,0 +1,15 @@
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\bin\Debug\net6.0\ASimpleGame.exe
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\bin\Debug\net6.0\ASimpleGame.deps.json
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\bin\Debug\net6.0\ASimpleGame.runtimeconfig.json
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\bin\Debug\net6.0\ASimpleGame.dll
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\bin\Debug\net6.0\ASimpleGame.pdb
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.csproj.AssemblyReference.cache
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.AssemblyInfoInputs.cache
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.AssemblyInfo.cs
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.csproj.CoreCompileInputs.cache
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.dll
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\refint\ASimpleGame.dll
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.pdb
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ASimpleGame.genruntimeconfig.cache
+C:\Users\olgd\bouvet\aSimpleGame-refact\ASimpleGame\obj\Debug\net6.0\ref\ASimpleGame.dll
